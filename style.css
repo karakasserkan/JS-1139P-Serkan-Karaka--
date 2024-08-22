@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-image:url("/assets/img/stad.jpeg");
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+.card{
+    width: 30rem;
+    height: 25rem;
+    border:5px solid green;
+    border-radius: 1.5rem;
+    background-color: rgba(255, 255, 255, 0.88);
+}
+#plus{
+    border-radius: 50%;
+}
+#minus{
+    border-radius: 50%;
+}
